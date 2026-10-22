@@ -5,5 +5,17 @@
     <link>https://github.com/purpleax/ScreenCap-Updates</link>
     <description>Updates for ScreenCap</description>
     <language>en</language>
+    <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Thu, 22 Oct 2026 21:26:32 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;In-place updates. ScreenCap checks for new versions once a day and installs them over itself after asking, or automatically if you turn that on in Settings › General › Updates.&lt;/li&gt;&lt;li&gt;**Check for Updates…** in the menu bar menu and the editor's ScreenCap menu. When a scheduled check finds an update, the menu bar menu shows **Update Available…** instead of interrupting you.&lt;/li&gt;&lt;li&gt;An About window, from the menu bar menu, the editor's ScreenCap menu or the new About tab in Settings, showing the version, the creator (Guy Brown) and credits and licences for the open-source libraries ScreenCap uses.&lt;/li&gt;&lt;li&gt;A colour theme for ScreenCap in Settings › General › Appearance: keep the Mac's accent colour, or pick blue, purple, pink, red, orange, yellow, green or graphite for the toolbar, buttons, selections and highlights.&lt;/li&gt;&lt;li&gt;Light, Dark or System appearance for ScreenCap alone.&lt;/li&gt;&lt;li&gt;A layered app icon that follows the Mac's icon style (default, dark, clear or tinted) on macOS 26 and later.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Releases are now downloaded from the public ScreenCap-Updates page. Install this version by hand once; later versions arrive as updates.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.2.0/ScreenCap-1.2.0.dmg" length="4408373" type="application/octet-stream" sparkle:edSignature="MdAsi1Jda6Ms3g6luOM3Nb3G26jzVl+/ylGm5o/RD3LP3u9bnDpVy8pWt0bnvlfrSeNZXNgFbVyh4E8kzBYFBw==" />
+    </item>
   </channel>
 </rss>
