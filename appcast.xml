@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.0</title>
+      <pubDate>Thu, 22 Oct 2026 22:09:00 GMT</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;More export formats: HEIC, AVIF, TIFF, GIF, BMP and PDF alongside PNG and JPEG. Only formats your Mac can write are listed.&lt;/li&gt;&lt;li&gt;Export quality for JPEG, HEIC and AVIF, to trade file size against sharpness.&lt;/li&gt;&lt;li&gt;Export size: original, 75%, 50%, 25%, standard resolution (1x) for Retina captures, or an exact width with the height kept in proportion.&lt;/li&gt;&lt;li&gt;Export resolution: automatic (keeps the on-screen size), 72, 144 or 300 dpi.&lt;/li&gt;&lt;li&gt;The Export panel shows the output size in pixels and remembers your choices.&lt;/li&gt;&lt;li&gt;The file saved after each capture can use any of these formats (Settings › General › Saved files).&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.3.0/ScreenCap-1.3.0.dmg" length="4479360" type="application/octet-stream" sparkle:edSignature="KGgKbzCx/prYE5geKZsYZrrj6Db5+XM0WlYLbAm9PL2I9IAWWlXgQpE5LB8uxy0qQzYssOFtNOzkDicpcjl7Cw==" />
+    </item>
+    <item>
       <title>Version 1.2.1</title>
       <pubDate>Thu, 22 Oct 2026 21:58:41 GMT</pubDate>
       <sparkle:version>11</sparkle:version>
