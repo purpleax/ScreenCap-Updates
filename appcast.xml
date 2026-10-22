@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.2.1</title>
+      <pubDate>Thu, 22 Oct 2026 21:58:41 GMT</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Captures deleted outside ScreenCap, for example in Finder from the folder that **Show in Finder** opens, stayed in the filmstrip and Library, and clicking them only beeped. The library now watches its folder, so deleted captures disappear straight away and new ones copied in appear.&lt;/li&gt;&lt;li&gt;If the capture open in the editor is deleted, the editor moves to the newest remaining capture instead of trying to save into the deleted one.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.2.1/ScreenCap-1.2.1.dmg" length="4424174" type="application/octet-stream" sparkle:edSignature="aWGyyaoylzdSIe/dDbPsT8xK4iqry4I25dvv0ZGvKxDlCYRoTSC2uOxAFPL5NQ2QnKObGOQP7V3wVoS7LtD7AQ==" />
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <pubDate>Thu, 22 Oct 2026 21:26:32 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
