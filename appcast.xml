@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.0</title>
+      <pubDate>Thu, 22 Oct 2026 23:41:22 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Record the microphone with a video. In Video mode the capture bar has separate switches for system sound and the microphone; when both are on, they're mixed into one sound track when recording stops, so every player hears both. Choose the microphone in Settings › Recording. Needs macOS 15 or later.&lt;/li&gt;&lt;li&gt;A microphone level meter on the capture bar while recording.&lt;/li&gt;&lt;li&gt;Pause and Resume on the capture bar. Paused time is left out of the recording and the timer.&lt;/li&gt;&lt;li&gt;Restart on the capture bar: throws the take away and records the same area again (it asks first after a few seconds).&lt;/li&gt;&lt;li&gt;A Microphone row in the Permissions window. ScreenCap asks for microphone access the first time you turn the microphone on.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.7.0/ScreenCap-1.7.0.dmg" length="4950083" type="application/octet-stream" sparkle:edSignature="itM0/XgG8eZ7ujeAvsVrKS7AVtbdHhRV4Y6dz3V8i2ktKlDsBfLWfordmRS5sbKduaM61eBXnj9nkOTDaPWxBg==" />
+    </item>
+    <item>
       <title>Version 1.6.0</title>
       <pubDate>Thu, 22 Oct 2026 23:22:36 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
