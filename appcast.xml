@@ -6,6 +6,18 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.0</title>
+      <pubDate>Thu, 22 Oct 2026 23:22:36 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Screen recording. Press ⌃⇧V (or choose Record Video), pick a region, window or display, and recording starts after a 3-2-1 countdown. Press ⌃⇧V again, click Stop, or click the red timer in the menu bar to stop. Recordings are MP4 movies with system audio, at full Retina resolution.&lt;/li&gt;&lt;li&gt;A floating capture bar: switch between Photo and Video, choose All-in-One, Region, Window or Display, turn system audio on or off, and press the red button. Drag it anywhere; it remembers its place. While recording it shows the time with Stop and Cancel. It is never in a capture or recording.&lt;/li&gt;&lt;li&gt;Recordings open in the editor to play and trim. Trims can be undone and never change the original movie. Export saves an MP4 at the original size or smaller, as HEVC or H.264; Copy, Share and Drag hand over the trimmed movie.&lt;/li&gt;&lt;li&gt;Recordings in the library and filmstrip show a play badge and their length.&lt;/li&gt;&lt;li&gt;A Recording tab in Settings: HEVC or H.264, 30 or 60 frames per second, full or standard resolution, system audio, the mouse pointer, the countdown, and whether recordings open in the editor.&lt;/li&gt;&lt;li&gt;Settings › Capture › Show the floating capture bar, and Show Capture Bar in the menu bar menu. The hotkeys work with the bar on or off.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Quitting while recording saves the recording first, and an update waits until recording finishes before installing.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.6.0/ScreenCap-1.6.0.dmg" length="4863749" type="application/octet-stream" sparkle:edSignature="Zu5qmZwWb3XgfiHa2MWAsJn7ElDAIVY5useZU/+kMh5MSIydwCCr2puvvt9WOYrWzw3NZZyi+fGrY8MuxMg8BQ==" />
+    </item>
+    <item>
       <title>Version 1.5.0</title>
       <pubDate>Thu, 22 Oct 2026 22:30:16 GMT</pubDate>
       <sparkle:version>14</sparkle:version>
