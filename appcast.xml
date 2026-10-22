@@ -6,6 +6,18 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Thu, 22 Oct 2026 22:20:21 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Zoom buttons at the bottom left of the editor: zoom out, a zoom menu with presets from 25% to 400%, zoom in, and zoom to fit.&lt;/li&gt;&lt;li&gt;Hold ⌘ and scroll to zoom in or out around the pointer.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;After cropping and then undoing, the full image stayed zoomed in past the window. The editor now re-fits whenever the image size changes (crop, undo, redo, Reset Crop, padding) if it was fitted, or if the image would no longer fit. A zoom you chose is kept when the image still fits.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.4.0/ScreenCap-1.4.0.dmg" length="4491940" type="application/octet-stream" sparkle:edSignature="I//T5nL4bVDSECBabhX8zWW9yCpkO8Ui50iU8A3rzj4cDxfhvkTZ+4VTjwRygtF1JxLNEkiPGlGkYpa6vHtlCQ==" />
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <pubDate>Thu, 22 Oct 2026 22:09:00 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
