@@ -6,6 +6,18 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.5.0</title>
+      <pubDate>Thu, 22 Oct 2026 22:30:16 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Zoom in the editor toolbar: zoom out, the zoom level (with presets, Zoom to Fit and Actual Size) and zoom in.&lt;/li&gt;&lt;li&gt;Hide or show the sidebar with the button at the bottom right, View › Hide Sidebar, or ⌥⌘S, to give the canvas more room.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;The editor toolbar adapts to the window width instead of cutting off buttons: labelled buttons when there is room, then icons only, then Library, Capture, Share and Copy All in one menu, then all tools in a single Tools menu.&lt;/li&gt;&lt;li&gt;The editor window can be made smaller (down to 720 × 520 points), for small screens.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.5.0/ScreenCap-1.5.0.dmg" length="4510961" type="application/octet-stream" sparkle:edSignature="WXm7fyX6pG1x0s709feHwdoEeo5LmLf6rMtEZ/dDyOcJoZNfrD+KJnHW20JIDkj+dojtxb1QWnF0T84fUvaVCQ==" />
+    </item>
+    <item>
       <title>Version 1.4.0</title>
       <pubDate>Thu, 22 Oct 2026 22:20:21 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
