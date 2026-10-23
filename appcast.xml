@@ -6,6 +6,18 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.10.0</title>
+      <pubDate>Fri, 23 Oct 2026 05:57:47 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;A hotkey to pause and resume a recording, ⌃⇧P by default (Settings › Hotkeys). The capture bar's Pause label shows it.&lt;/li&gt;&lt;li&gt;A low disk space warning. With less than 2 GB free, ScreenCap asks before recording, and the capture bar shows an orange warning while recording. Below 500 MB recording still stops by itself and keeps what was recorded.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;The camera only turns on while recording. With the camera switched on, the bubble appears when a recording starts and goes away when it ends, instead of whenever the capture bar is in Video mode.&lt;/li&gt;&lt;li&gt;With a recording open, the Library view no longer shows the image tools, and the status bar shows the recording's size and length.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.10.0/ScreenCap-1.10.0.dmg" length="5207627" type="application/octet-stream" sparkle:edSignature="lxR2zQ0bkPRR55b8hNi79TdieE44/K2Vngtk5J4c1B5kFthSByL9ymCTfiF699GzA7std+0wL5Rvchr8jZjUCw==" />
+    </item>
+    <item>
       <title>Version 1.9.1</title>
       <pubDate>Fri, 23 Oct 2026 04:15:41 GMT</pubDate>
       <sparkle:version>21</sparkle:version>
