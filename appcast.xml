@@ -6,6 +6,18 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.9.0</title>
+      <pubDate>Fri, 23 Oct 2026 00:43:12 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Video editing. Recordings open with a timeline under the picture: drag along it to select a part, then Cut removes it and joins the rest, Keep keeps only the selection, and Mute silences it. Sound On/Off turns off the whole recording's sound, and Restore undoes every edit at once. Each edit can be undone, and the original recording is never changed.&lt;/li&gt;&lt;li&gt;The timeline shows frames along the recording, a time ruler, the playhead, yellow marks where parts were cut and orange marks under muted parts. Drag in the ruler to scrub; drag a selection's edges to change it.&lt;/li&gt;&lt;li&gt;Keys in the video editor: Space plays and pauses, ← and → step a frame (⇧ a second), I and O set the selection's start and end, Delete cuts the selection, and Esc clears it.&lt;/li&gt;&lt;li&gt;Export a recording as an animated GIF: choose the width, frame rate and whether it loops, with an estimate of the file size.&lt;/li&gt;&lt;li&gt;Frame opens the frame at the playhead in the image editor, as a new capture to annotate.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Copy, Share, Drag and Export use the edited recording. MP4 exports are re-encoded only when the format or size changes.&lt;/li&gt;&lt;li&gt;Library thumbnails and badges show the length after editing.&lt;/li&gt;&lt;li&gt;QuickTime's trim bar is replaced by the timeline (Keep Selection trims). Older versions of ScreenCap can still open edited recordings but show them uncut.&lt;/li&gt;&lt;li&gt;Hovering over anything on the capture bar shows its name and what it does, in a label just above the bar, for the choices, the sound and camera switches, and the recording controls. Labels appear even while another app is in front (macOS's own tooltips only appear for the active app), switch straight away as you move along the bar, and go away when you click.&lt;/li&gt;&lt;li&gt;The capture bar's buttons light up under the pointer even while another app is in front.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.9.0/ScreenCap-1.9.0.dmg" length="5207046" type="application/octet-stream" sparkle:edSignature="DrxPRKO/odlzeTHeKS+jqeSPXSj8zX0tnwmoTP6jZHT3kbyRnb1lRfgUQdshNwAamZqZftYNmdDvgJ3Rmw1ICg==" />
+    </item>
+    <item>
       <title>Version 1.8.1</title>
       <pubDate>Fri, 23 Oct 2026 00:08:59 GMT</pubDate>
       <sparkle:version>18</sparkle:version>
