@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.1</title>
+      <pubDate>Fri, 23 Oct 2026 00:08:59 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Record Video… in the menu bar menu (and New Recording… in the File menu) brings up the capture bar in Video mode, so you can choose All-in-One, Region, Window or Display, sound and camera before recording. It appears even when the bar is turned off in Settings, and goes away again after the recording or when you click ×. The ⌃⇧V hotkey still starts an all-in-one recording straight away.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.8.1/ScreenCap-1.8.1.dmg" length="5001014" type="application/octet-stream" sparkle:edSignature="ZHbNPpxzziZdyqYvwBKn8oiigebjQNFBRSrFcc+AV6NGhetyuYk1O33GiXRm1FcStCcDp+v6cArGRHP85XTxDA==" />
+    </item>
+    <item>
       <title>Version 1.8.0</title>
       <pubDate>Fri, 23 Oct 2026 00:01:27 GMT</pubDate>
       <sparkle:version>17</sparkle:version>
