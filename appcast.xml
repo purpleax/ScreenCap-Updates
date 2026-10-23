@@ -6,6 +6,18 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.8.0</title>
+      <pubDate>Fri, 23 Oct 2026 00:01:27 GMT</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;A webcam bubble for recordings. Turn the camera on from the capture bar in Video mode or in Settings › Recording, and a round bubble showing you floats over everything and is included in the video. Drag it anywhere; right-click it for Small, Medium or Large, or to turn the camera off. If it's outside the area you record, it moves into that area's corner. Choose the camera in Settings.&lt;/li&gt;&lt;li&gt;Click highlighting: a ring appears at each click while recording and is included in the video (Settings › Recording › Highlight clicks).&lt;/li&gt;&lt;li&gt;Poster frame: in the editor, Poster uses the frame on screen as the recording's thumbnail. It can be undone.&lt;/li&gt;&lt;li&gt;A Camera row in the Permissions window. ScreenCap asks for camera access the first time you turn the camera on.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;With the camera or click highlighting on, recording a window records the window's area (showing only that window) so the bubble and rings can be included; it doesn't follow the window if it moves.&lt;/li&gt;&lt;li&gt;Trimming a recording updates its thumbnail when no poster frame is chosen.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.8.0/ScreenCap-1.8.0.dmg" length="5000355" type="application/octet-stream" sparkle:edSignature="+sF73xSjZMlJ7C8amdIiYTphWdJHtWT7EsrqLXSA+bfc21v685eHSVKID1dgEzzh1fA4+4b1Y0jN1Rjrzr5kAw==" />
+    </item>
+    <item>
       <title>Version 1.7.0</title>
       <pubDate>Thu, 22 Oct 2026 23:41:22 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
