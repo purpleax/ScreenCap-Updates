@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.11.0</title>
+      <pubDate>Fri, 23 Oct 2026 08:11:46 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;**Print…** (⌘P) in the File menu prints the open capture with its crop and annotations, shrunk to fit the page if it is too big and otherwise at its natural size, centred. **Page Setup…** (⇧⌘P) chooses the paper and orientation. Recordings can't be printed.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.11.0/ScreenCap-1.11.0.dmg" length="5212033" type="application/octet-stream" sparkle:edSignature="vPD/ahu/a+k+afZhCCCdejh9RpiUk0+y68fHzl+wQktAPaz+3Dnd6+M5TBqBqsinKU+CSkJ01msDj48uIl+2BA==" />
+    </item>
+    <item>
       <title>Version 1.10.0</title>
       <pubDate>Fri, 23 Oct 2026 05:57:47 GMT</pubDate>
       <sparkle:version>23</sparkle:version>
