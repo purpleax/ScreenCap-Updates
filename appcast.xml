@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.4</title>
+      <pubDate>Sun, 25 Oct 2026 20:19:27 GMT</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Floating buttons that hover over scrolling content, such as a chat's "jump to latest" arrow, were repeated down a scrolling capture. Side panels that don't scroll could repeat too. ScreenCap now notices anything that stays put while the content scrolls past and joins the pieces where there's least of it, so it appears once, as it was on screen.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.0.4/ScreenCap-2.0.4.dmg" length="5356926" type="application/octet-stream" sparkle:edSignature="ehNORcnxaXv1Ny8Pz42FlfY9hDqZpCeMssjzHxND2PFaP12+2gMekh/a01VFMe+t/k8v9WtKTDuhMkHz6FSiCQ==" />
+    </item>
+    <item>
       <title>Version 2.0.3</title>
       <pubDate>Sun, 25 Oct 2026 13:19:16 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
