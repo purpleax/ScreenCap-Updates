@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.13.0</title>
+      <pubDate>Sun, 25 Oct 2026 12:26:59 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Scrolling capture is run from the capture bar, which now appears for it even when the bar is turned off. It shows **Start Down** and **Start Right**, then what's happening and how many pieces are captured, with a big **Finish** button. The small panel beside the area is gone.&lt;/li&gt;&lt;li&gt;The area being captured has a pulsing outline with a caption saying what to do next, such as "Scroll down slowly now · Finish on the capture bar or press ⌃⇧S".&lt;/li&gt;&lt;li&gt;Pressing the scrolling capture hotkey (⌃⇧S) again starts the capture, then finishes it. During a scrolling capture the menu bar icon shows Start or Finish and the number of pieces; clicking it does that.&lt;/li&gt;&lt;li&gt;Timed captures show their countdown on the capture bar too, with Cancel.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.13.0/ScreenCap-1.13.0.dmg" length="5385935" type="application/octet-stream" sparkle:edSignature="GWgUDmk6a7RNSrDzsuNj9IjrHAyXkx5VYUYWWzP+H4rFYo80R+oSKq5zXb19J38xQ32QMl7wawVxEffsdjDtAw==" />
+    </item>
+    <item>
       <title>Version 1.12.0</title>
       <pubDate>Sun, 25 Oct 2026 12:14:12 GMT</pubDate>
       <sparkle:version>25</sparkle:version>
