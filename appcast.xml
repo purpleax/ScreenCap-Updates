@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.1</title>
+      <pubDate>Sun, 25 Oct 2026 12:47:30 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;A scrolling capture could include the capture bar (and the outline's caption) wherever they sat over the area being captured, repeated down the image. ScreenCap's own windows are now always left out of the shots.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.0.1/ScreenCap-2.0.1.dmg" length="5346981" type="application/octet-stream" sparkle:edSignature="EBrZSTQY8oaX1F1211O8zp6XvEmngBmo5Rte8zfNUdLrCYEpbECO42U/YGcOjFAOvjAJvnlYEpmzY89+nxTaCg==" />
+    </item>
+    <item>
       <title>Version 2.0.0</title>
       <pubDate>Sun, 25 Oct 2026 12:35:11 GMT</pubDate>
       <sparkle:version>27</sparkle:version>
