@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.5</title>
+      <pubDate>Sun, 25 Oct 2026 22:12:14 GMT</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Scrolling captures of pages that update while you scroll (live CPU and memory figures, a log with live tail on, a chat that's still writing) could repeat a whole section, because a pause with a few changed rows was taken for a big move to some similar-looking part of the page. A shot where most of the picture is unchanged now counts as no move, and a move only counts when some lines clearly scrolled with it.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.0.5/ScreenCap-2.0.5.dmg" length="5357863" type="application/octet-stream" sparkle:edSignature="GcSJrUWzWqQcZCwTZ0HmHJ1h5xyJMBoRQQq6Buml7fUzfg/AZrvduWzfc/u2j+ZMMQBCfkB3gghCWcU8Y9OKBA==" />
+    </item>
+    <item>
       <title>Version 2.0.4</title>
       <pubDate>Sun, 25 Oct 2026 20:19:27 GMT</pubDate>
       <sparkle:version>31</sparkle:version>
