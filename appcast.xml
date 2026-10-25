@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.2</title>
+      <pubDate>Sun, 25 Oct 2026 12:57:15 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;In a scrolling capture of a window with a fixed area at the bottom, such as a chat app's message box, pieces of that area (and the window's rounded corner) could be repeated down the middle of the image. ScreenCap now recognises plain fixed areas, even with a caret blinking in them, and puts them once at the bottom.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.0.2/ScreenCap-2.0.2.dmg" length="5352132" type="application/octet-stream" sparkle:edSignature="WaeVCTtvCHz0g2qP9onhd4cFJbNk9vjwXPD9u+IhneMrLleDGfPKNSin5KGMUxlugXwIEC3DfDWYQsay3VWyAA==" />
+    </item>
+    <item>
       <title>Version 2.0.1</title>
       <pubDate>Sun, 25 Oct 2026 12:47:30 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
