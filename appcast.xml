@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 1.12.0</title>
+      <pubDate>Sun, 25 Oct 2026 12:14:12 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;**Scrolling capture**, like Snagit's, for long web pages, documents and lists. Press ⌃⇧S (or choose Scrolling Capture from the menu bar icon, New Scrolling Capture from the File menu, or Scrolling on the capture bar), then drag over the part that scrolls or click a window, and choose **Down** or **Right**. ScreenCap scrolls from where the content is now, capturing as it goes, and joins the pieces into one long image when it reaches the end. Esc or **Done** stops early and keeps what's captured.&lt;/li&gt;&lt;li&gt;Toolbars and headers that stay put appear once at the top, status bars and footers once at the bottom, and a scroll bar along the edge is trimmed off.&lt;/li&gt;&lt;li&gt;Scrolling another app's window needs Accessibility access, now listed (optional) in the Permissions window. Without it, you scroll the area yourself while ScreenCap captures it.&lt;/li&gt;&lt;li&gt;A hotkey for scrolling capture in Settings › Hotkeys.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v1.12.0/ScreenCap-1.12.0.dmg" length="5354835" type="application/octet-stream" sparkle:edSignature="oXW5VzoEJakBHjVbAiIN/NU30xdfaDViQ1lT8sX7l0qq9LxizbcTeWUqs6hRX6Al7wPFy9uosL9g+5YNXX/ZDA==" />
+    </item>
+    <item>
       <title>Version 1.11.0</title>
       <pubDate>Fri, 23 Oct 2026 08:11:46 GMT</pubDate>
       <sparkle:version>24</sparkle:version>
