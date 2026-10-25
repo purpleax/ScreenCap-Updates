@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.6</title>
+      <pubDate>Sun, 25 Oct 2026 22:24:32 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;When the pointer moved onto a panel that scrolls by itself, such as a log table in its own scroll box, a scrolling capture repeated the page around it down the image. ScreenCap now notices that only part of the area is moving, skips those shots, and says so on the capture bar and the area's caption: move the pointer off the panel to carry on, or click Finish.&lt;/li&gt;&lt;li&gt;Warnings during a scrolling capture are now written out on the capture bar instead of hidden behind an icon.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.0.6/ScreenCap-2.0.6.dmg" length="5361327" type="application/octet-stream" sparkle:edSignature="AzthtC+rFKVUWtQWox8nwZO0Nf0VK/kFWh1xSWMZjoyI62opZ9+y5OvI+Zk37inHL44JYAxd8US0yJYjjkt2AQ==" />
+    </item>
+    <item>
       <title>Version 2.0.5</title>
       <pubDate>Sun, 25 Oct 2026 22:12:14 GMT</pubDate>
       <sparkle:version>32</sparkle:version>
