@@ -6,6 +6,18 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.0</title>
+      <pubDate>Sun, 25 Oct 2026 12:35:11 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Scrolling capture is now simply: pick the area, scroll it yourself, then click **Finish** on the capture bar. Capturing starts as soon as the area is picked, and ScreenCap works out from your scrolling whether it goes down or right. ⌃⇧S again, or **Finish** on the menu bar icon, also finishes; × cancels.&lt;/li&gt;&lt;li&gt;The capture bar says what to do ("Scroll the area slowly", then "Keep scrolling down") with the pieces and length captured so far, and warns if you scroll too fast to follow.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Removed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;ScreenCap no longer scrolls windows for you during a scrolling capture, and the Start Down and Start Right buttons are gone.&lt;/li&gt;&lt;li&gt;The Accessibility permission, which only that used, is no longer requested or listed in the Permissions window. You can turn ScreenCap off in System Settings › Privacy &amp;amp; Security › Accessibility.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.0.0/ScreenCap-2.0.0.dmg" length="5343867" type="application/octet-stream" sparkle:edSignature="wZsTVzLj82b1MLyxMns1EGUPGE1QCDCZ+c95WINUcHBLAvtQIfcUZQYA2UsLcAZMRoF44S1V5kiirshCboeyBQ==" />
+    </item>
+    <item>
       <title>Version 1.13.0</title>
       <pubDate>Sun, 25 Oct 2026 12:26:59 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
