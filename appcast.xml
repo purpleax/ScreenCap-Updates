@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.3</title>
+      <pubDate>Sun, 25 Oct 2026 13:19:16 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Scrolling captures of chat apps could still repeat the message box down the image. Text fading out just above the box no longer counts as scrolling content, so the pieces are joined above the box and it appears once, at the bottom.&lt;/li&gt;&lt;li&gt;A scrolling capture could decide a window was scrolling sideways when it was scrolling down, and join the pieces into a very wide image. The direction is now decided only by a clear match, and pieces must overlap by at least 40% to be joined.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.0.3/ScreenCap-2.0.3.dmg" length="5358632" type="application/octet-stream" sparkle:edSignature="9ZvWuXckuqzUXGVy0zVNHvzbnoVGIRNu4sx6i3IfHU7US0XaP5YopfkJFKa0FFIXxssLb7tSUEPyeBX6sxgMBA==" />
+    </item>
+    <item>
       <title>Version 2.0.2</title>
       <pubDate>Sun, 25 Oct 2026 12:57:15 GMT</pubDate>
       <sparkle:version>29</sparkle:version>
