@@ -6,6 +6,18 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.1.0</title>
+      <pubDate>Tue, 27 Oct 2026 04:27:37 GMT</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Crop by dragging the picture's edges. The Crop tool now shows the whole image with the cropped-away part dimmed: drag any side or corner in to crop, or back out to bring the picture back, and drag inside to move the kept area. Dragging over the image still draws a new crop.&lt;/li&gt;&lt;li&gt;Selection tool (M) for editing the picture itself. Drag a box, then Cut (⌘X), Copy (⌘C) or Delete it, crop to it, or drag inside it to move those pixels. Paste (⌘V) puts the clipboard over the selection as a layer you can move. ⌘A selects the whole picture.&lt;/li&gt;&lt;li&gt;Cut Out tool (O): drag across the picture to remove a strip of columns or rows (choose Vertical or Horizontal) and join what's left. Annotations move with the picture. The Selection tool can also remove its columns or rows across the whole picture.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Cut Out, Cut, Delete and moving selected pixels change the capture's stored image. They can be undone while the capture is open; cropping still never removes anything.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.1.0/ScreenCap-2.1.0.dmg" length="5427695" type="application/octet-stream" sparkle:edSignature="W+nv5sDofg/CK4tqD40IuHtGMrUCZnzZyANK4Ni831U+QcYbDjlY5L+pFKCfDa0XkpUUuy6B9qlaEmJ8bv4RBg==" />
+    </item>
+    <item>
       <title>Version 2.0.6</title>
       <pubDate>Sun, 25 Oct 2026 22:24:32 GMT</pubDate>
       <sparkle:version>33</sparkle:version>
