@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 2.3.0</title>
+      <pubDate>Tue, 27 Oct 2026 05:44:11 GMT</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Grab Text: copy the text in part of a picture. In the editor, click Grab Text on the toolbar (or press ⌃⇧G or ⌥⌘C) and drag over the text, or use it with an area already selected with the Selection tool. Anywhere else, ⌃⇧G or Grab Text in the menu bar menu freezes the screen so you can drag over the text there. The text goes to the clipboard and opens in a small window where you can correct it and copy it again. Columns side by side are kept apart with tabs, so tables paste into a spreadsheet as columns. Text is read on your Mac with macOS's own text recognition; nothing is sent anywhere. The hotkey can be changed in Settings › Hotkeys.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v2.3.0/ScreenCap-2.3.0.dmg" length="5501813" type="application/octet-stream" sparkle:edSignature="hMxQHvO6WrS+7qkPsr4yRtXeeNCZbVng0oq+9cUdaGin+w9d8EqVjnUWWFZkGNI887G0t8t2ARqoMe1PVEEVCw==" />
+    </item>
+    <item>
       <title>Version 2.2.0</title>
       <pubDate>Tue, 27 Oct 2026 05:25:18 GMT</pubDate>
       <sparkle:version>36</sparkle:version>
