@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 3.1.0</title>
+      <pubDate>Mon, 09 Nov 2026 02:34:35 GMT</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Press Delete to move a capture to the Trash: click its thumbnail in the filmstrip or the Library, then press Delete. ScreenCap shows the capture and asks first; tick "Don't ask again" to skip the question, and turn it back on in Settings › General › Library. On the canvas, Delete still removes the selected markup.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v3.1.0/ScreenCap-3.1.0.dmg" length="5880880" type="application/octet-stream" sparkle:edSignature="c4HJeSGC2rA2rVdShJ1Z3QXalHkBRzLK+o2/W302i1Wga5/vW3bMFnPBFbNpc3bhsaQdBwPLm8KpgtqqyGukAg==" />
+    </item>
+    <item>
       <title>Version 3.0.1</title>
       <pubDate>Tue, 27 Oct 2026 07:41:20 GMT</pubDate>
       <sparkle:version>47</sparkle:version>
