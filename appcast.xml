@@ -6,6 +6,16 @@
     <description>Updates for ScreenCap</description>
     <language>en</language>
     <item>
+      <title>Version 3.2.0</title>
+      <pubDate>Sun, 15 Nov 2026 09:37:05 GMT</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Copy a capture from its thumbnail: click it in the filmstrip or the Library and press ⌘C, or right-click it and choose Copy. ScreenCap copies the finished image with its markup, ready to paste into Mail, Messages, Slack, Preview and other apps. A recording is copied as a movie file. Before, ⌘C on a thumbnail only beeped.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/purpleax/ScreenCap-Updates/releases/download/v3.2.0/ScreenCap-3.2.0.dmg" length="5887657" type="application/octet-stream" sparkle:edSignature="IZjp/fG/CDiDoG+GgGEC4og6dJDmxSQhZrUKx7SY3jOYlAg1ZNiUI82fG2C7Rhq0O4LSPdv2yqdKwdOfeJWmDg==" />
+    </item>
+    <item>
       <title>Version 3.1.0</title>
       <pubDate>Mon, 09 Nov 2026 02:34:35 GMT</pubDate>
       <sparkle:version>48</sparkle:version>
